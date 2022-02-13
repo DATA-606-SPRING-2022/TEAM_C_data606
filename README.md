@@ -1,39 +1,148 @@
-# TEAM_C_data606
-### This project is part of DATA-606 Capstone project -TEAM-C
+TEAM_C_data606
+This project is part of DATA-606 Capstone project -TEAM-C
+Title: End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based assessment.
 
- **This folder is for the capstone project in Data Science**
+1_ZQ25X7Qnq6ui83yc8RB5pQ
 
-__Title__: Building loan defaulters classification model by using multiple machine learning models.
+Background Information: Money lending has been a prominent activity to make money out of money. Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. After thorough research, we've found that with the technologies like decentralization finance and other technologies in place there must be a data-driven approach to solve the gap in the banking sector for accessing the customers better in terms of lowering the burden of bad debts and creditworthiness of the applicants.
 
-__Background Information__: Money lending has been a prominent activity to make money out of money.  Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. Though, this activity has many upsides in terms of investing money that beats the interest rates in the market. But, there are also customers or borrowing agencies who default the loans either intentionally or eventually depending upon the circumstances thus making loans defaulting rate to 6%.  Thus, it became imperative to validate the borrowing credentials before issuing the loans or lending money directly. 
+Severity of the issue: After the global financial crisis, we've found that with the availability of better-skilled workers in many industrial sectors and better cash flows with increased income levels in individuals the roadblocks in accessing the capital are not eliminated (below graph shows the same).
 
-__Severity of the issue__: If loan default occurs continuously it becomes a red flag for lenders and they cannot issue new or more loans to new customers and as well as the capital capacity of their company will fall eventually as investors will back out investing money in the company with an increasing amount of loan defaults. And finally, it leads to more debt on the company intern which leads to losses to the company. To overcome all of these issues we need to have a proper mechanism to implement certain latest methods in the technology to predict the chances of defaulting particular loan so that we can avoid sanctioning that particular loan to be better in the market as well investors perspective for future investments for that particular bank.
+ecb ebart202004_02 en_img0
 
-__Goals of the Project__: We want to help the lenders or banking institutions to evaluate their customers by predicting whether they default on the loan or not. This in turn increases the credibility of the banks in the public if they lower their loan defaulters.
+Existing problems in the banking sector:
 
-__Dataset Description__: We found the dataset from Kaggle. The size of dataset is 28MB which contains 34 columns namely ID, year, loan_limit, gender, approv_in_adv, loan_type, loan_purpose, Credit_Worthiness, open_credit, business_or_commercial, loan_amount, rate_of_interest, Interest_rate_spread, Upfront_charges, term, Neg_ammortization means Negotiative ammortization, interest_only, lump_sum_payment, property_value, construction_type, occupancy_type, Secured_by, total_units, income, credit_type, credit_score, co-applicant_credit_type, age, submission_of_application, LTV, region, Security_Type, status, dtir_1.
+Lack of data-driven approach in accessing the customer.
+Following the same traditional methodology of underwriting the collateral to grant the loans.
+Does not consider the steady cash flow of the individuals to estimate the risk.
+Improper accessing customers solely based on collateral.
+Goals of the Project: To incorporate an end-to-end data science project which could address the existing gaps in the banking sector by powering them with a web-based dashboard to access the creditworthiness of the customer.
 
-__Data source__- https://www.kaggle.com/yasserh/loan-default-dataset
+determining-customer-creditworthiness thumb 1280 1280
 
-__Unit of Analysis__: Records of customers data like the data provided during accessing the loan initially.
+This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches
 
-__Number of observations to be analysed__: 148671
+Dataset Description:
 
-__Output Variable__: Loan status
+ID: Customer ID of Applicant
 
-__Models to be used__: Random Forest with Grid search CV, Logistic Regression with Grid search CV, Support Vector Machine with Grid search CV, K Nearest Neighbors with Grid search CV, Bagging with Base estimator as Random Forest, Bagging with Base estimator as Logistic Regression, AdaBoost Classifier, Multilayer Perceptron Classifier.
+year: Year of Application
 
-__Evaluation metrics to be used__: we are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After determining the metric to evaluate the model with the help of the business understanding of the domain of the data, we'll figure out the ways to improve the performance of the model.
+loan_limit: Cash Flow or Net Cash Flow type
 
-__Expected Outcomes__: 
-1) Importance of business domain understanding in choosing and evaluating the model. 
-2) To apply various machine learning models to classify the outcome. 
-3) Usage of Various evaluating metrics to determine the performance of the model. 
-4) Importance of Various Statistical Analysis Understanding the Dimensionality Reduction. 
-5) Understanding the Bias-Variance trade-off. 
-6) Application of Principal component analysis. 
-7) Usage of Grid search Validations. 
-8) Understanding of Various activation functions. 
-9) Effectively handling the outliers. 
-10) Usage of various hyperparameters. 
-11) Analyzing & Visualizing the data.
+gender: Applicant's gender
+
+approv_in_adv: Is loan pre-approved or not
+
+loan_type: Type of loan
+
+loan_purpose: Purpose of loan
+
+Credit_Worthiness: Credit worthiness of the applicant
+
+open_credit: Type of Credit (Open credit or Non open credit)
+
+business_or_commercial: Usage type of the loan amount
+
+loan_amount: The exact loan amount
+
+rate_of_interest: Rate of interest of the loan
+
+Interest_rate_spread: Spread of interest rate by banks
+
+Upfront_charges: Up front loan sanctioning charges
+
+lump_sum_payment: Down payment for the loan
+
+property_value: Collateral value
+
+construction_type: Collateral construction type
+
+age: Age of applicant
+
+Security_Type: Type of Collatoral
+
+status: Loan status (Approved/Declined)
+
+Data source- https://www.kaggle.com/yasserh/loan-default-dataset
+
+Unit of Analysis: Loan record of applicant.
+
+Number of observations to be analysed: 148671
+
+Output Variable: Loan status
+
+Models to be used:
+
+Random Forest with Grid search CV
+
+Logistic Regression with Grid search CV
+
+Support Vector Machine with Grid search CV
+
+K Nearest Neighbors with Grid search CV
+
+Bagging with Base estimator as Random Forest
+
+Bagging with Base estimator as Logistic Regression
+
+AdaBoost Classifier
+
+Multilayer Perceptron Classifier
+
+Neural Networks
+
+Tensor Flow.
+
+Evaluation metrics to be used: we are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After determining the metric to evaluate the model with the help of the business understanding of the domain of the data, we'll figure out the ways to improve the performance of the model.
+
+Expected Outcomes:
+
+Importance of business domain understanding in choosing and evaluating the model.
+
+To apply various machine learning models to classify the outcome.
+
+Usage of Various evaluating metrics to determine the performance of the model.
+
+Importance of Various Statistical Analysis Understanding the Dimensionality Reduction.
+
+Understanding the Bias-Variance trade-off.
+
+Application of Principal component analysis.
+
+Usage of Grid search Validations.
+
+Understanding of Various activation functions.
+
+Effectively handling the outliers.
+
+Usage of various hyperparameters.
+
+Analyzing & Visualizing the data.
+
+Building a dashboard which helps banking stakeholders to access the status of creditworthiness.
+
+Roles & Responsibilities
+
+Narendra Thuma:
+
+Implementing various classification algorithms like Logistic Classification
+Naive Bayes
+SVM
+Decision Trees
+KNN & ensembling modelling
+Developing an algorithm to access the credit risk in lending
+Dashboard development
+Vaishnavi Vejella:
+
+Data gathering
+Data Cleaning
+Data Visualization
+Finding business value in developing the model.
+Dashboard development
+Rakesh Reddy:
+
+Choosing the right evaluation metric to gauge the performance of the developed model
+Performing various statistical analysis on the data
+Interpretation of the results of statistical analysis
+Dashboard development
