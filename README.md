@@ -6,7 +6,7 @@
 
 End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based assessment.
 
-1_ZQ25X7Qnq6ui83yc8RB5pQ
+![image](https://user-images.githubusercontent.com/71124557/153785711-9a173674-c2b8-4801-a216-32cff8169ea3.png)
 
 > Background Information: 
 
@@ -16,7 +16,7 @@ Money lending has been a prominent activity to make money out of money. Institut
 
 After the global financial crisis, we've found that with the availability of better-skilled workers in many industrial sectors and better cash flows with increased income levels in individuals the roadblocks in accessing the capital are not eliminated (below graph shows the same).
 
-ecb ebart202004_02 en_img0
+![image](https://user-images.githubusercontent.com/71124557/153785722-a606e313-fa6b-4a76-b91f-b0a8c922ea4b.png)
 
 > Existing problems in the banking sector:
 
@@ -29,8 +29,7 @@ ecb ebart202004_02 en_img0
 
 To incorporate an end-to-end data science project which could address the existing gaps in the banking sector by powering them with a web-based dashboard to access the creditworthiness of the customer.
 
-determining-customer-creditworthiness thumb 1280 1280
-
+![image](https://user-images.githubusercontent.com/71124557/153785776-7d00f715-caef-4d58-959b-2ac52afdda15.png)
 This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches
 
 > Dataset Description:
