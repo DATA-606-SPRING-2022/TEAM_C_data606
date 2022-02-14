@@ -1,6 +1,9 @@
 # TEAM_C_data606
-### This project is part of DATA-606 Capstone project -TEAM-C
+#### This project is part of DATA-606 Capstone project TEAM-C
+### LOAN DEFAULT CLASSIFICATION by Narendra Thumma, Rakesh reddy Pulichinthala, Vaishnavi Vejella
+
 > Title: 
+
 End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based assessment.
 
 1_ZQ25X7Qnq6ui83yc8RB5pQ
@@ -132,7 +135,7 @@ We are planning to evaluate the metrics such as recall, accuracy, precision, f-1
 
 12. Building a dashboard which helps banking stakeholders to access the status of creditworthiness.
 
-#### Roles & Responsibilities
+### Roles & Responsibilities
 
 Narendra Thuma:
 
