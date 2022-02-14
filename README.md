@@ -1,37 +1,37 @@
 # TEAM_C_data606
 #### This project is part of DATA-606 Capstone project TEAM-C
 
-> Title: 
+##### Title: 
 
 End to End data science application which can be leveraged by banks to assess creditworthiness, lower bad debt burden, and increase the trust in the existing data rather than document-based assessment.
 
 ![image](https://user-images.githubusercontent.com/71124557/153785711-9a173674-c2b8-4801-a216-32cff8169ea3.png)
 
-> Background Information: 
+##### Background Information: 
 
 Money lending has been a prominent activity to make money out of money. Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. After thorough research, we've found that with the technologies like decentralization finance and other technologies in place there must be a data-driven approach to solve the gap in the banking sector for accessing the customers better in terms of lowering the burden of bad debts and creditworthiness of the applicants.
 
-> Severity of the issue: 
+##### Severity of the issue: 
 
 After the global financial crisis, we've found that with the availability of better-skilled workers in many industrial sectors and better cash flows with increased income levels in individuals the roadblocks in accessing the capital are not eliminated (below graph shows the same).
 
 ![image](https://user-images.githubusercontent.com/71124557/153785722-a606e313-fa6b-4a76-b91f-b0a8c922ea4b.png)
 
-> Existing problems in the banking sector:
+##### Existing problems in the banking sector:
 
 1. Lack of data-driven approach in accessing the customer.
 2. Following the same traditional methodology of underwriting the collateral to grant the loans.
 3. Does not consider the steady cash flow of the individuals to estimate the risk.
 4. Improper accessing customers solely based on collateral.
 
-> Goals of the Project: 
+##### Goals of the Project: 
 
 To incorporate an end-to-end data science project which could address the existing gaps in the banking sector by powering them with a web-based dashboard to access the creditworthiness of the customer.
 
 ![image](https://user-images.githubusercontent.com/71124557/153785776-7d00f715-caef-4d58-959b-2ac52afdda15.png)
 This project aims to address the gap of improper customer assessmnet and developing a new way to access the customers by the data driven approaches
 
-> Dataset Description:
+##### Dataset Description:
 
 ID: Customer ID of Applicant
 
@@ -81,7 +81,7 @@ Number of observations to be analysed: 148671
 
 Output Variable: Loan status
 
-> Model Techniques:
+##### Model Techniques:
 
 1. Random Forest with Grid search CV
 
@@ -103,11 +103,11 @@ Output Variable: Loan status
 
 10. Tensor Flow.
 
-> Evaluation metrics to be used: 
+##### Evaluation metrics to be used: 
 
 We are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After determining the metric to evaluate the model with the help of the business understanding of the domain of the data, we'll figure out the ways to improve the performance of the model.
 
-> Expected Outcomes:
+##### Expected Outcomes:
 
 1. Importance of business domain understanding in choosing and evaluating the model.
 
