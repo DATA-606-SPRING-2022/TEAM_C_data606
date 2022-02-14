@@ -1,6 +1,5 @@
 # TEAM_C_data606
 #### This project is part of DATA-606 Capstone project TEAM-C
-### LOAN DEFAULT CLASSIFICATION by Narendra Thumma, Rakesh reddy Pulichinthala, Vaishnavi Vejella
 
 > Title: 
 
