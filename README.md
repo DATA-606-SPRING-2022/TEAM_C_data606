@@ -81,7 +81,7 @@ Number of observations to be analysed: 148671
 
 Output Variable: Loan status
 
-##### Model Techniques:
+##### Models we are trying to use:
 
 1. Random Forest with Grid search CV
 
