@@ -6,9 +6,11 @@ End to End data science application which can be leveraged by banks to assess cr
 1_ZQ25X7Qnq6ui83yc8RB5pQ
 
 > Background Information: 
+
 Money lending has been a prominent activity to make money out of money. Institutional banking agencies & many individuals are pursuing this activity to make themselves profitable. After thorough research, we've found that with the technologies like decentralization finance and other technologies in place there must be a data-driven approach to solve the gap in the banking sector for accessing the customers better in terms of lowering the burden of bad debts and creditworthiness of the applicants.
 
 > Severity of the issue: 
+
 After the global financial crisis, we've found that with the availability of better-skilled workers in many industrial sectors and better cash flows with increased income levels in individuals the roadblocks in accessing the capital are not eliminated (below graph shows the same).
 
 ecb ebart202004_02 en_img0
@@ -21,6 +23,7 @@ ecb ebart202004_02 en_img0
 4. Improper accessing customers solely based on collateral.
 
 > Goals of the Project: 
+
 To incorporate an end-to-end data science project which could address the existing gaps in the banking sector by powering them with a web-based dashboard to access the creditworthiness of the customer.
 
 determining-customer-creditworthiness thumb 1280 1280
@@ -69,7 +72,7 @@ Security_Type: Type of Collatoral
 
 status: Loan status (Approved/Declined)
 
-Data source- https://www.kaggle.com/yasserh/loan-default-dataset
+##### Data source- https://www.kaggle.com/yasserh/loan-default-dataset
 
 Unit of Analysis: Loan record of applicant.
 
@@ -77,7 +80,7 @@ Number of observations to be analysed: 148671
 
 Output Variable: Loan status
 
-Models to be used:
+> Model Techniques:
 
 1. Random Forest with Grid search CV
 
@@ -100,6 +103,7 @@ Models to be used:
 10. Tensor Flow.
 
 > Evaluation metrics to be used: 
+
 We are planning to evaluate the metrics such as recall, accuracy, precision, f-1 score, confusion matrix, ROC-AUC scores. After determining the metric to evaluate the model with the help of the business understanding of the domain of the data, we'll figure out the ways to improve the performance of the model.
 
 > Expected Outcomes:
