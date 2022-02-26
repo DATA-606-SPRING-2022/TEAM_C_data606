@@ -88,3 +88,27 @@ The loan applications with occupany_type 'pr' are the highest when compared to t
 ![image](https://user-images.githubusercontent.com/91147579/155860904-074a4e81-5b92-4778-8cf8-4750ca0936d9.png)
 
 The purposes 'p3','p4' types are the highest among other loan applications.
+
+**11) Analysis on distribution of Interest rates:**
+
+![image](https://user-images.githubusercontent.com/91147579/155860930-5a167ac0-89eb-4fa8-91ba-9f882c3701e7.png)
+
+The interest rates for most of the loans are in the range between 3 nad 5.
+
+**12) Analysis on Distribution of Loan terms (in months):**
+
+![image](https://user-images.githubusercontent.com/91147579/155860959-42ac0afe-9d5a-4391-8e0f-ee367391bac3.png)
+
+Most of the loan terms are in the range of 300 to 400
+
+**13) Analysis on Distribution of Property Values:**
+
+![image](https://user-images.githubusercontent.com/91147579/155861045-2c39ffcc-4258-4d3e-b9eb-d0e88337a8b0.png)
+
+The values of the collateral properties for loan applications are in the ranges of 100k to 1000K
+
+**14) Distribution of Income levels of loan applicants:**
+
+![image](https://user-images.githubusercontent.com/91147579/155861055-7aef775a-bbd9-450d-a5fc-7274b8254190.png)
+
+The income ranges of loan applicants are in the range of 0 to 20000 per months
