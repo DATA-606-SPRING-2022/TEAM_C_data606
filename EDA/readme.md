@@ -81,7 +81,7 @@ The loan applications with 'CIB' & 'CRIF' are the highest when compared to other
 
 ![image](https://user-images.githubusercontent.com/91147579/155860881-864d5d7a-5ecc-4f3a-baa8-a8b5ffbca1e6.png)
 
-The loan applications with occupany_type 'pr' are the highest when compared to the other types of accupancies.
+The loan applications with occupany_type 'pr' are the highest when compared to the other types of occupancies.
 
 **10) Analysis on Distribution of loan applicants by purpose of the loan:**
 
