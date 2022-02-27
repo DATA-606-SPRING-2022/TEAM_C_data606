@@ -1,6 +1,6 @@
 **This folder conatins python notebooks and report explaining Exploratory Data Analysis (EDA).**
 
-**1) The columns in the data set are: **
+**1) The columns in the data set are:**
 
 ID: Customer ID of Applicant
 
