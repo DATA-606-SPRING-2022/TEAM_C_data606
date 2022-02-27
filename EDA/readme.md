@@ -63,7 +63,7 @@ The columns rate_of_interest, interest_rate_spread, upfront_charges, property_va
 
 ![image](https://user-images.githubusercontent.com/91147579/155860799-3c763e97-ba81-4f27-bd05-56abf1bfede1.png)
 
-Most of the values of loan applications are in the ranges beween 250 K to 500 K
+Most of the values of loan applications are in the ranges between 250 K to 500 K
 
 **7) Analysis on Distribition of loan applications by gender:**
 
