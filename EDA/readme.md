@@ -112,3 +112,39 @@ The values of the collateral properties for loan applications are in the ranges 
 ![image](https://user-images.githubusercontent.com/91147579/155861055-7aef775a-bbd9-450d-a5fc-7274b8254190.png)
 
 The income ranges of loan applicants are in the range of 0 to 20000 per months
+
+**15) Analysis on age groups of loan applicants:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895467-41493153-6893-4d66-9de7-fd6760ed3b00.png)
+
+The age of the loan applicants are in the range of 45-54 followed by applicants are of the ages 35-44.
+
+**16) Analysis on loan amounts by interest rates:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895483-34d77114-776d-4474-8cbe-940232f29982.png)
+
+The is no steady interest rates. We can see that the interest rates floats with respect to the loan amounts.
+
+**17) Interest rates by Gender:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895505-8f3c14f1-b0cd-410f-8a80-70049ab3e8e4.png)
+
+We can infer that the interest rates for loan applications does not vary by gender.
+
+**18) Analysis on loan amounts by Gender:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895526-45a2451f-1145-4cde-8fca-e2021bafb989.png)
+
+We can infer that the loan amount for joint loan applications are higher then followed by male applicants.
+
+**19) Analysis on credit score by credit type:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895562-7d73940e-0540-44e6-a9fc-693164ebdc70.png)
+
+The credit scores of the credit type CRIF is higher then followed by credit type EXP.
+
+**20) Analysis on loan amount by the gender of applicants type and nature of loan availability:**
+
+![image](https://user-images.githubusercontent.com/91147579/155895588-dffb0a3a-ab52-4b3c-a8c7-588d9dcda7a0.png)
+
+We can infer that the most of the loan applicants are for commercial purposes in any ganders. We can also infer that there are male applicants for business purposes than females.
