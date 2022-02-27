@@ -75,7 +75,7 @@ We can infer that the joint applications (i. e., both male and female) are the h
 
 ![image](https://user-images.githubusercontent.com/91147579/155860843-bec09bc0-d0c3-4016-88d0-0b1df24833e9.png)
 
-The loan applications with 'CIB' & 'CRIF' are the highest when comapred to other two types.
+The loan applications with 'CIB' & 'CRIF' are the highest when compared to other two types.
 
 **9) Analysis on Distribution of loan applicants by occupancy type:**
 
