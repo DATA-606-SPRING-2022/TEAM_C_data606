@@ -69,7 +69,7 @@ Most of the values of loan applications are in the ranges beween 250 K to 500 K
 
 ![image](https://user-images.githubusercontent.com/91147579/155860817-5f9cc9be-c4c3-41d4-8d6e-e62f34a44118.png)
 
-We can infer that the joint applications (i. e., both male and female) are the highest and individually male application sare higher than females.
+We can infer that the joint applications (i. e., both male and female) are the highest and individually male applications are higher than females.
 
 **8) Analysis on Distribution of loan applicants by credit type:**
 
