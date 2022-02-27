@@ -147,4 +147,4 @@ The credit scores of the credit type CRIF is higher then followed by credit type
 
 ![image](https://user-images.githubusercontent.com/91147579/155895588-dffb0a3a-ab52-4b3c-a8c7-588d9dcda7a0.png)
 
-We can infer that the most of the loan applicants are for commercial purposes in any ganders. We can also infer that there are male applicants for business purposes than females.
+We can infer that the most of the loan applicants are for commercial purposes in any genders. We can also infer that there are male applicants for business purposes than females.
