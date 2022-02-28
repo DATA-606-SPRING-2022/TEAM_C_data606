@@ -1,4 +1,5 @@
-**This folder conatins python notebooks and report explaining Exploratory Data Analysis (EDA).**
+
+**This folder conatins python notebooks and reports explaining Exploratory Data Analysis (EDA).**
 
 **1) The columns in the data set are:**
 
@@ -10,15 +11,15 @@ loan_limit: Cash Flow or Net Cash Flow type
 
 gender: Applicant's gender
 
-approv_in_adv: Is loan pre-approved or not
+approv_in_adv: Is the loan pre-approved or not
 
 loan_type: Type of loan
 
 loan_purpose: Purpose of loan
 
-Credit_Worthiness: Credit worthiness of the applicant
+Credit_Worthiness: Creditworthiness of the applicant
 
-open_credit: Type of Credit (Open credit or Non open credit)
+open_credit: Type of Credit (Open credit or Non-open credit)
 
 business_or_commercial: Usage type of the loan amount
 
@@ -28,7 +29,7 @@ rate_of_interest: Rate of interest of the loan
 
 Interest_rate_spread: Spread of interest rate by banks
 
-Upfront_charges: Up front loan sanctioning charges
+Upfront_charges: Upfront loan sanctioning charges
 
 lump_sum_payment: Down payment for the loan
 
@@ -38,7 +39,7 @@ construction_type: Collateral construction type
 
 age: Age of applicant
 
-Security_Type: Type of Collatoral
+Security_Type: Type of Collateral
 
 status: Loan status (Approved/Declined)
 
@@ -46,18 +47,18 @@ status: Loan status (Approved/Declined)
 
 https://www.kaggle.com/yasserh/loan-default-dataset
 
-**3) Unit of Analysis**: Loan record of applicant.
+**3) Unit of Analysis**: Loan record of the applicant.
 
 **4) Size of the data**
 
-Number of observations to be analysed: 148671
+Number of observations to be analyzed: 148671
 Number of columns: 34
 
 **5) Missing Values:** 
 
 ![missing](https://user-images.githubusercontent.com/91147579/155860766-18c68d22-bfd4-4037-ad77-cf45e0970ee9.JPG)
 
-The columns rate_of_interest, interest_rate_spread, upfront_charges, property_value has missing values which can be seen as the gaps in the column bars.
+The columns rate_of_interest, interest_rate_spread, upfront_charges, property_value have missing values which can be seen as the gaps in the column bars.
 
 **6) Analysis on distribution of loan amounts:**
 
@@ -65,7 +66,7 @@ The columns rate_of_interest, interest_rate_spread, upfront_charges, property_va
 
 Most of the values of loan applications are in the ranges between 250 K to 500 K
 
-**7) Analysis on Distribition of loan applications by gender:**
+**7) Analysis on Distribution of loan applications by gender:**
 
 ![image](https://user-images.githubusercontent.com/91147579/155860817-5f9cc9be-c4c3-41d4-8d6e-e62f34a44118.png)
 
@@ -75,7 +76,7 @@ We can infer that the joint applications (i. e., both male and female) are the h
 
 ![image](https://user-images.githubusercontent.com/91147579/155860843-bec09bc0-d0c3-4016-88d0-0b1df24833e9.png)
 
-The loan applications with 'CIB' & 'CRIF' are the highest when compared to other two types.
+The loan applications with 'CIB' & 'CRIF' are the highest when compared to the other two types.
 
 **9) Analysis on Distribution of loan applicants by occupancy type:**
 
