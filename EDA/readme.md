@@ -1,5 +1,7 @@
 **This folder contains python notebooks and reports explaining Exploratory Data Analysis (EDA).**
 
+**Link to Presentation** - https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/DATA_606_Team_C_Presentation1.pptx
+
 **1) The columns in the data set are:**
 
 ID: Customer ID of Applicant
