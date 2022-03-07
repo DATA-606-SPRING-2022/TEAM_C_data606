@@ -1,6 +1,6 @@
 **This folder contains python notebooks and reports explaining Exploratory Data Analysis (EDA).**
 
-**Link to Presentation** - https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations
+**Link to Presentation** - https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations 
 
 **1) The columns in the data set are:**
 
