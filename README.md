@@ -159,3 +159,5 @@ Rakesh Reddy:
 - Performing various statistical analysis on the data
 - Interpretation of the results of statistical analysis
 - Dashboard development
+
+### Link to Presentation - https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations
