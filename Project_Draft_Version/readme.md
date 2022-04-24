@@ -153,7 +153,7 @@ The credit scores of the credit type CRIF are higher than those followed by cred
 
 We can infer that most of the loan applicants are for commercial purposes in any ganders. We can also infer that there are male applicants for business purposes than females.
 
-**Machine Learning Models Used:
+**Machine Learning Models Used:**
 
 1) Logistic Regression
 
