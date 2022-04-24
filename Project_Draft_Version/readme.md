@@ -2,6 +2,8 @@
 
 **Link to Presentation** - https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Draft.pptx
 
+**Link to Video Presentation:** - https://youtu.be/n0ATtXOPFwU
+
 **1) The columns in the data set are:**
 
 ID: Customer ID of Applicant
