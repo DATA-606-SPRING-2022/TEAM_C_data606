@@ -160,11 +160,13 @@ Rakesh Reddy:
 - Interpretation of the results of statistical analysis
 - Dashboard development
 
-### Link to Presentation of EDA phase-1 - https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations
+### Link to Presentation of phase-1 EDA- https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations
 
-### Link to Youtube recorded presentation- https://www.youtube.com/watch?v=TyHLQGU8rmc&ab_channel=NarendraKumarThumma
+### Link to Youtube recorded presentation Phase-1 EDA- https://www.youtube.com/watch?v=TyHLQGU8rmc&ab_channel=NarendraKumarThumma
 
 
-### Link to Presentation of Final(draft) version- 
+### Link to Presentation of Final(draft) version- https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Draft.pptx
+
+### Link to Youtube recorded presentation  Final(draft) version- 
 
 
