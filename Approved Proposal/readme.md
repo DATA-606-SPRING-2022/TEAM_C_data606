@@ -80,25 +80,14 @@ Output Variable: Loan status
 
 ##### Models we are going to use:
 
-1. Random Forest with Grid search CV
+1. Logistic regression
+2. Logistic Regression with Grid search CV and Liblinear solver
+3. Logistic Regression with Grid search CV and Saga solver
+4. Support Vector Machine
+5. K-Nearest Neighbors 
+6. AdaBoost Model
+7. Decision Tree
 
-2. Logistic Regression with Grid search CV
-
-3. Support Vector Machine with Grid search CV
-
-4. K Nearest Neighbors with Grid search CV
-
-5. Bagging with Base estimator as Random Forest
-
-6. Bagging with Base estimator as Logistic Regression
-
-7. AdaBoost Classifier
-
-8. Multilayer Perceptron Classifier
-
-9. Neural Networks
-
-10. Tensor Flow.
 
 ##### Evaluation metrics to be used: 
 
@@ -131,29 +120,4 @@ We are planning to evaluate the metrics such as recall, accuracy, precision, f-1
 12. Building a dashboard which helps banking stakeholders to access the status of creditworthiness.
 
 ### Roles & Responsibilities
-
-Narendra Thuma:
-
-- Implementing various classification algorithms like Logistic Classification
-- Naive Bayes
-- SVM
-- Decision Trees
-- KNN & ensembling modelling
-- Developing an algorithm to access the credit risk in lending
-- Dashboard development
-
-Vaishnavi Vejella:
-
-- Data gathering
-- Data Cleaning
-- Data Visualization
-- Finding business value in developing the model.
-- Dashboard development
-
-Rakesh Reddy:
-
-- Choosing the right evaluation metric to gauge the performance of the developed model
-- Performing various statistical analysis on the data
-- Interpretation of the results of statistical analysis
-- Dashboard development
 
