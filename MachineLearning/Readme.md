@@ -84,7 +84,7 @@ The columns rate_of_interest, interest_rate_spread, upfront_charges, property_va
 8) Adaboost Model
 
 
-**Results & COnclusions:**
+**Results & Conclusions:**
 
 1) The classifier's efficiency to identify the model is determined by the Area Under the Curve (AUC) Score.
 
