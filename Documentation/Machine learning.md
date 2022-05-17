@@ -1,3 +1,9 @@
+**Correlation Matrix:**
+
+![image](https://user-images.githubusercontent.com/71124557/168903047-2a542c1a-646e-4c0e-91bf-5765402cd125.png)
+
+
+
 **Machine Learning Models Used:**
 
 1) Logistic Regression
