@@ -1,3 +1,15 @@
+**Feature Engineering:**
+
+1) Chi Square test-
+The Chi-Square test is best defined as a statistical hypothesis test. This test is used either for comparing a group having a value or in comparing multiple groups with categorical data. The advantages of this test are the robustness with respect to the given data. 
+It can only be used when two categorical variables are there and related to some population. The Chi-square test is a goodness fit statistic because it measures how well the observation data fits the distributed data.
+ 
+2) Z-score: 
+A Z-score is a hypothesis test. The samples are normally distributed while the test is being performed. It's only utilized when the standard deviation is known, and the sample size is always large.
+In other words, it verifies the sample's hypotheses about the same population.
+
+
+
 **Correlation Matrix:**
 
 ![image](https://user-images.githubusercontent.com/71124557/168903047-2a542c1a-646e-4c0e-91bf-5765402cd125.png)
@@ -8,23 +20,19 @@
 
 1) Logistic Regression
 
-2) Logistic Regression using 10 folds Grid Search Cross Validation at various regularization strengths and liblinear solver
+2) Logistic Regression using Grid Search Cross Validation at various regularization strengths and liblinear solver
 
-3) Logistic Regression using 10 folds Grid Search Cross Validation at various regularization strengths and saga solver
+3) Logistic Regression using Grid Search Cross Validation at various regularization strengths and saga solver
 
-4) Logistic Regression using 10 folds Grid Search Cross Validation at various regularization strengths and saga solver and with using principle component analysis
+4) Decision Tree Classifier
 
-5) Decision Tree Classifier
+5) Decision Tree with Grid Search CV
 
-6) Decision Tree with Grid Search
+6) Support Vector Machine
 
-7) Support Vector Machine
+7) K-Nearest Neighbours
 
-8) K-Nearest Neighbours
-
-9) Ensemble Methods
-
-10) Adaboost Model
+8) Adaboost Model
 
 **Conclusions:**
 
