@@ -1,4 +1,4 @@
-**This folder contains python notebooks and reports explaining Exploratory Data Analysis (EDA) and Machine Learning Models.**
+**This folder contains python notebooks and reports explaining Machine Learning Models.**
 
 **Link to Presentation** - https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Draft.pptx
 
