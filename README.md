@@ -88,14 +88,14 @@ https://github.com/vvejella/TEAM_C_data606/tree/main/Presentations
 #### Link to Youtube recorded presentation Phase-1 EDA- 
 https://www.youtube.com/watch?v=TyHLQGU8rmc&ab_channel=NarendraKumarThumma
 
-#### Link to Presentation of Final(draft) version- 
+#### Link to Presentation of Final(draft) Machine learning part- 
 https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Draft.pptx
 
-#### Link to Youtube recorded presentation  Final(draft) version-
+#### Link to Youtube recorded presentation  Final(draft)  Machine learning part-
 https://www.youtube.com/watch?v=n0ATtXOPFwU&ab_channel=NarendraKumarThumma
 
-#### Link to Team-c_Final Presentation- 
+#### Link to Team-c_Final Presentation with Streamlit- 
 https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Final.pptx
 
-#### Link to Team-c Final Youtube recorded presentation- 
+#### Link to Team-c Final part Youtube recorded presentation- 
 https://www.youtube.com/watch?v=7s8AsuazKBI&ab_channel=NarendraKumarThumma
