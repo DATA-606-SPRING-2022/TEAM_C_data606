@@ -119,5 +119,4 @@ We are planning to evaluate the metrics such as recall, accuracy, precision, f-1
 
 12. Building a dashboard which helps banking stakeholders to access the status of creditworthiness.
 
-### Roles & Responsibilities
 
