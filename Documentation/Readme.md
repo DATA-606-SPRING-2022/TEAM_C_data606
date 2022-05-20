@@ -16,7 +16,7 @@
 - Visualizing the data of Interest rates, Distribution of loan term(in months) and determined the nature of Loan.
 - Plotting the corelation to check the corelation among the features.
 
-3. Naredra Kumar Thumma-
+3. Naredra Kumar Thumma
 - Checking the outliers in all columns.
 - By using Z-score, removed the outliers.
 - Checking the class Imblance issues.
