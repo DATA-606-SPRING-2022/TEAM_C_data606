@@ -94,3 +94,8 @@ https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Dr
 #### Link to Youtube recorded presentation  Final(draft) version-
 https://www.youtube.com/watch?v=n0ATtXOPFwU&ab_channel=NarendraKumarThumma
 
+#### Link to Team-c_Final Presentation- 
+https://github.com/vvejella/TEAM_C_data606/blob/main/Presentations/TEAM-C-PPT_Final.pptx
+
+#### Link to Team-c Final Youtube recorded presentation- 
+https://www.youtube.com/watch?v=7s8AsuazKBI&ab_channel=NarendraKumarThumma
